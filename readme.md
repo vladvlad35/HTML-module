@@ -1,0 +1,5 @@
+# This repository is for my practice task in HTML module :)
+[Task 001: Headings](./001-task/heading-practice.html)  
+[Task 002: Paragraphs](./001-task/paragraphs-practicce.html)  
+[Task 003: Void elements](./001-task/void-practice.html)  
+[Task 004: Lists](./001-task/list-practice.html)  
