@@ -3,5 +3,5 @@
 [Task 002: Paragraphs](./paragraphs-practicce.html)  
 [Task 003: Void elements](./void-practice.html)  
 [Task 004: Lists](./list-practice.html)  
-[Task 005: Hybrid practice](./hybrid-practice.html)
+[Task 005: Hybrid practice](./hybrid-practice.html)  
 [Task 006: Practice](./practice/index.html)
